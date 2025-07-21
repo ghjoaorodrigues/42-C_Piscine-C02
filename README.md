@@ -156,4 +156,3 @@ ft_print_memory(data, strlen(data));
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
-```
